@@ -1,7 +1,7 @@
 # Taxi Boss Auto Farm Tracker
 
 ## ⚠️ Disclaimer
-**For Educational Purposes Only.** This script is provided as a proof-of-concept to demonstrate GUI creation and pixel detection in AutoHotkey. The creator, kcykael, is not responsible or liable for any consequences resulting from the use of this script, including but not limited to account bans, suspensions, or any violation of Roblox's Terms of Service. By downloading and using this tool, you assume all risks associated with its use. 
+**For Educational Purposes Only.** This script is provided as a proof-of-concept to demonstrate GUI creation and pixel detection in AutoHotkey. The creator, yukira, is not responsible or liable for any consequences resulting from the use of this script, including but not limited to account bans, suspensions, or any violation of Roblox's Terms of Service. By downloading and using this tool, you assume all risks associated with its use. 
 
 ## 📖 Description
 Welcome to the Taxi-Boss Auto Repair + Auto Claim Vault Money + Anti-AFK Script! This tool automates repetitive tasks in the game while providing a clean, dual-window graphical interface to track your farming sessions in real-time.
